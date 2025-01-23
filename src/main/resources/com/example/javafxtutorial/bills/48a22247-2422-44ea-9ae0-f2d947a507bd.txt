@@ -1,0 +1,12 @@
+Thank you for buying from our store!
+Order id: 48a22247-2422-44ea-9ae0-f2d947a507bd
+Date: Tue Jan 16 19:48:49 CET 2024
+Seller: Unejsi Isufaj Role: Administrator
+Order Details: 
++------------------+-------------------+--------------+----------+-----------+
+|   Book Name      |    Author         |    Price     | Quantity | Subtotal  |
++------------------+-------------------+--------------+----------+-----------+
+| Harry Potter     | J.K Rowling       | $19.00       | 1        | $19.00    |
+| Book20           | Author20          | $60.00       | 1        | $60.00    |
++------------------+-------------------+--------------+----------+-----------+
+Total Quantity: 2 | Total Price: 79.0

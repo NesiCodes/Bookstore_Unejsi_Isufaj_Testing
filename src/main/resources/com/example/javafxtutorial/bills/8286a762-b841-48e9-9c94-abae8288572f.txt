@@ -1,0 +1,13 @@
+Thank you for buying from our store!
+Order id: 8286a762-b841-48e9-9c94-abae8288572f
+Date: Tue Jan 16 19:49:54 CET 2024
+Seller: Dea Molla Role: Manager
+Order Details: 
++------------------+-------------------+--------------+----------+-----------+
+|   Book Name      |    Author         |    Price     | Quantity | Subtotal  |
++------------------+-------------------+--------------+----------+-----------+
+| A Clash Of Kings | George R.R Martin | $29.00       | 2        | $58.00    |
+| Fire & Blood     | George R.R Martin | $40.00       | 2        | $80.00    |
+| The Goldfinch    | Donnatartt        | $33.00       | 3        | $99.00    |
++------------------+-------------------+--------------+----------+-----------+
+Total Quantity: 7 | Total Price: 237.0

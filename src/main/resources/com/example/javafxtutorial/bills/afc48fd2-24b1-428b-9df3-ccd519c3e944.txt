@@ -1,0 +1,13 @@
+Thank you for buying from our store!
+Order id: afc48fd2-24b1-428b-9df3-ccd519c3e944
+Date: Tue Jan 16 19:48:25 CET 2024
+Seller: Unejsi Isufaj Role: Administrator
+Order Details: 
++------------------+-------------------+--------------+----------+-----------+
+|   Book Name      |    Author         |    Price     | Quantity | Subtotal  |
++------------------+-------------------+--------------+----------+-----------+
+| Startup          | Chris Doe         | $15.00       | 2        | $30.00    |
+| Book8            | Author8           | $35.00       | 1        | $35.00    |
+| Catch Rye        | Salinger          | $30.00       | 3        | $90.00    |
++------------------+-------------------+--------------+----------+-----------+
+Total Quantity: 6 | Total Price: 155.0

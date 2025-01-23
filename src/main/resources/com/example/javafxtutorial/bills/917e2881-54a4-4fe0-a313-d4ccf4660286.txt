@@ -1,0 +1,13 @@
+Thank you for buying from our store!
+Order id: 917e2881-54a4-4fe0-a313-d4ccf4660286
+Date: Tue Jan 16 19:49:40 CET 2024
+Seller: Dea Molla Role: Manager
+Order Details: 
++------------------+-------------------+--------------+----------+-----------+
+|   Book Name      |    Author         |    Price     | Quantity | Subtotal  |
++------------------+-------------------+--------------+----------+-----------+
+| Crushing         | Gary War          | $18.00       | 1        | $18.00    |
+| The Lean         | Eric Ries         | $22.00       | 1        | $22.00    |
+| Book9            | Author9           | $26.00       | 2        | $52.00    |
++------------------+-------------------+--------------+----------+-----------+
+Total Quantity: 4 | Total Price: 92.0

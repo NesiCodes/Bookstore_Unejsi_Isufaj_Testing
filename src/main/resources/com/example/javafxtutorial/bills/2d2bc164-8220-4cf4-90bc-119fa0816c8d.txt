@@ -1,0 +1,13 @@
+Thank you for buying from our store!
+Order id: 2d2bc164-8220-4cf4-90bc-119fa0816c8d
+Date: Tue Jan 16 19:48:38 CET 2024
+Seller: Unejsi Isufaj Role: Administrator
+Order Details: 
++------------------+-------------------+--------------+----------+-----------+
+|   Book Name      |    Author         |    Price     | Quantity | Subtotal  |
++------------------+-------------------+--------------+----------+-----------+
+| Book19           | Author19          | $48.00       | 4        | $192.00   |
+| Book18           | Author18          | $55.00       | 1        | $55.00    |
+| Book17           | Author17          | $36.00       | 2        | $72.00    |
++------------------+-------------------+--------------+----------+-----------+
+Total Quantity: 7 | Total Price: 319.0

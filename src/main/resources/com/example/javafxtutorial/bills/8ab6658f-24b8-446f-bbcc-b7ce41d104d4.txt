@@ -1,0 +1,13 @@
+Thank you for buying from our store!
+Order id: 8ab6658f-24b8-446f-bbcc-b7ce41d104d4
+Date: Tue Jan 16 19:50:59 CET 2024
+Seller: Redion Poliçi Role: Librarian
+Order Details: 
++------------------+-------------------+--------------+----------+-----------+
+|   Book Name      |    Author         |    Price     | Quantity | Subtotal  |
++------------------+-------------------+--------------+----------+-----------+
+| Book20           | Author20          | $60.00       | 1        | $60.00    |
+| Book19           | Author19          | $48.00       | 1        | $48.00    |
+| Book17           | Author17          | $36.00       | 3        | $108.00   |
++------------------+-------------------+--------------+----------+-----------+
+Total Quantity: 5 | Total Price: 216.0
